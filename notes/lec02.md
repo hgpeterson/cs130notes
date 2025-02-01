@@ -1,0 +1,1 @@
+Not given due to fires. See http://courses.cms.caltech.edu/cs130/lectures/CS130-Wi2025-Lec02.pdf
