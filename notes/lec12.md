@@ -1,4 +1,4 @@
-# Version Control / Git 101
+# Version Control / Git 101: Concepts, Basic Git Features
 
 ## Version Control Systems
 
